@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color:#a7e6af;
+}
+
+#titleName{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color:#450c73;
+}
+#vegetableSaladImage{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+#benefits{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    font-weight: 900;
+    color: blue;
+
+}
+#benefitsParagraph{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    color:#450c73;
+    font-size: 80%;
+}
+#steps{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    font-weight: 900;
+    color: blue;
+}
+#stepForVegetableSalad{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    color:#450c73;
+    font-size: 80%;
+}
+#footerText{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    color:#450c73;
+    font-size: 80%;
+}
